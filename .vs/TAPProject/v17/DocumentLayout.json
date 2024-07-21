@@ -1,0 +1,601 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alrvfgdra\\source\\repos\\Tryingagainadagain\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50548910-CA7D-477B-8E09-470F15FC9BFD}|WebAPI\\WebAPI.csproj|c:\\users\\alrvfgdra\\source\\repos\\tryingagainadagain\\webapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50548910-CA7D-477B-8E09-470F15FC9BFD}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50548910-CA7D-477B-8E09-470F15FC9BFD}|WebAPI\\WebAPI.csproj|c:\\users\\alrvfgdra\\source\\repos\\tryingagainadagain\\webapi\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50548910-CA7D-477B-8E09-470F15FC9BFD}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50548910-CA7D-477B-8E09-470F15FC9BFD}|WebAPI\\WebAPI.csproj|c:\\users\\alrvfgdra\\source\\repos\\tryingagainadagain\\webapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50548910-CA7D-477B-8E09-470F15FC9BFD}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50548910-CA7D-477B-8E09-470F15FC9BFD}|WebAPI\\WebAPI.csproj|c:\\users\\alrvfgdra\\source\\repos\\tryingagainadagain\\webapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50548910-CA7D-477B-8E09-470F15FC9BFD}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D12CD0-0418-4949-A1AF-658759D08721}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\alrvfgdra\\source\\repos\\tryingagainadagain\\businesslayer\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D12CD0-0418-4949-A1AF-658759D08721}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D12CD0-0418-4949-A1AF-658759D08721}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\alrvfgdra\\source\\repos\\tryingagainadagain\\businesslayer\\contracts\\iorderitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D12CD0-0418-4949-A1AF-658759D08721}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\contracts\\iorderitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D12CD0-0418-4949-A1AF-658759D08721}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\alrvfgdra\\source\\repos\\tryingagainadagain\\businesslayer\\contracts\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D12CD0-0418-4949-A1AF-658759D08721}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\contracts\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D12CD0-0418-4949-A1AF-658759D08721}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\alrvfgdra\\source\\repos\\tryingagainadagain\\businesslayer\\contracts\\ishoppingcartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D12CD0-0418-4949-A1AF-658759D08721}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\contracts\\ishoppingcartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D12CD0-0418-4949-A1AF-658759D08721}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\alrvfgdra\\source\\repos\\tryingagainadagain\\businesslayer\\contracts\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D12CD0-0418-4949-A1AF-658759D08721}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\contracts\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D12CD0-0418-4949-A1AF-658759D08721}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\alrvfgdra\\source\\repos\\tryingagainadagain\\businesslayer\\contracts\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D12CD0-0418-4949-A1AF-658759D08721}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\contracts\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D12CD0-0418-4949-A1AF-658759D08721}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\alrvfgdra\\source\\repos\\tryingagainadagain\\businesslayer\\contracts\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D12CD0-0418-4949-A1AF-658759D08721}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\contracts\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D12CD0-0418-4949-A1AF-658759D08721}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\alrvfgdra\\source\\repos\\tryingagainadagain\\businesslayer\\dto\\addeditemsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D12CD0-0418-4949-A1AF-658759D08721}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\dto\\addeditemsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6941014B-216F-471B-B32D-28C607CBB9C5}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\alrvfgdra\\source\\repos\\tryingagainadagain\\dataaccesslayer\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6941014B-216F-471B-B32D-28C607CBB9C5}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6941014B-216F-471B-B32D-28C607CBB9C5}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\alrvfgdra\\source\\repos\\tryingagainadagain\\dataaccesslayer\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6941014B-216F-471B-B32D-28C607CBB9C5}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D12CD0-0418-4949-A1AF-658759D08721}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\alrvfgdra\\source\\repos\\tryingagainadagain\\businesslayer\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D12CD0-0418-4949-A1AF-658759D08721}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D12CD0-0418-4949-A1AF-658759D08721}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\alrvfgdra\\source\\repos\\tryingagainadagain\\businesslayer\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D12CD0-0418-4949-A1AF-658759D08721}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D12CD0-0418-4949-A1AF-658759D08721}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\alrvfgdra\\source\\repos\\tryingagainadagain\\businesslayer\\services\\shoppingcartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D12CD0-0418-4949-A1AF-658759D08721}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\services\\shoppingcartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D12CD0-0418-4949-A1AF-658759D08721}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\alrvfgdra\\source\\repos\\tryingagainadagain\\businesslayer\\services\\designpatterns\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D12CD0-0418-4949-A1AF-658759D08721}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\services\\designpatterns\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D12CD0-0418-4949-A1AF-658759D08721}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\alrvfgdra\\source\\repos\\tryingagainadagain\\businesslayer\\services\\orderitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D12CD0-0418-4949-A1AF-658759D08721}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\services\\orderitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D12CD0-0418-4949-A1AF-658759D08721}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\alrvfgdra\\source\\repos\\tryingagainadagain\\businesslayer\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D12CD0-0418-4949-A1AF-658759D08721}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D12CD0-0418-4949-A1AF-658759D08721}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\alrvfgdra\\source\\repos\\tryingagainadagain\\businesslayer\\services\\designpatterns\\servicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D12CD0-0418-4949-A1AF-658759D08721}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\services\\designpatterns\\servicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D12CD0-0418-4949-A1AF-658759D08721}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\alrvfgdra\\source\\repos\\tryingagainadagain\\businesslayer\\dto\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D12CD0-0418-4949-A1AF-658759D08721}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\dto\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D12CD0-0418-4949-A1AF-658759D08721}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\alrvfgdra\\source\\repos\\tryingagainadagain\\businesslayer\\dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D12CD0-0418-4949-A1AF-658759D08721}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50548910-CA7D-477B-8E09-470F15FC9BFD}|WebAPI\\WebAPI.csproj|c:\\users\\alrvfgdra\\source\\repos\\tryingagainadagain\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50548910-CA7D-477B-8E09-470F15FC9BFD}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50548910-CA7D-477B-8E09-470F15FC9BFD}|WebAPI\\WebAPI.csproj|c:\\users\\alrvfgdra\\source\\repos\\tryingagainadagain\\webapi\\webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{50548910-CA7D-477B-8E09-470F15FC9BFD}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D12CD0-0418-4949-A1AF-658759D08721}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\alrvfgdra\\source\\repos\\tryingagainadagain\\businesslayer\\contracts\\designpatternsinterface\\iservicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D12CD0-0418-4949-A1AF-658759D08721}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\contracts\\designpatternsinterface\\iservicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D12CD0-0418-4949-A1AF-658759D08721}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\alrvfgdra\\source\\repos\\tryingagainadagain\\businesslayer\\contracts\\designpatternsinterface\\icustomlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D12CD0-0418-4949-A1AF-658759D08721}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\contracts\\designpatternsinterface\\icustomlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D12CD0-0418-4949-A1AF-658759D08721}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\alrvfgdra\\source\\repos\\tryingagainadagain\\businesslayer\\services\\designpatterns\\loggeradapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D12CD0-0418-4949-A1AF-658759D08721}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\services\\designpatterns\\loggeradapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D12CD0-0418-4949-A1AF-658759D08721}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\alrvfgdra\\source\\repos\\tryingagainadagain\\businesslayer\\dto\\shoppingcartitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D12CD0-0418-4949-A1AF-658759D08721}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\dto\\shoppingcartitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D12CD0-0418-4949-A1AF-658759D08721}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\alrvfgdra\\source\\repos\\tryingagainadagain\\businesslayer\\dto\\shoppingcartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D12CD0-0418-4949-A1AF-658759D08721}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\dto\\shoppingcartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D12CD0-0418-4949-A1AF-658759D08721}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\alrvfgdra\\source\\repos\\tryingagainadagain\\businesslayer\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D12CD0-0418-4949-A1AF-658759D08721}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D12CD0-0418-4949-A1AF-658759D08721}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\alrvfgdra\\source\\repos\\tryingagainadagain\\businesslayer\\dto\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D12CD0-0418-4949-A1AF-658759D08721}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\dto\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D12CD0-0418-4949-A1AF-658759D08721}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\alrvfgdra\\source\\repos\\tryingagainadagain\\businesslayer\\contracts\\itestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D12CD0-0418-4949-A1AF-658759D08721}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\contracts\\itestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6941014B-216F-471B-B32D-28C607CBB9C5}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\alrvfgdra\\source\\repos\\tryingagainadagain\\dataaccesslayer\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6941014B-216F-471B-B32D-28C607CBB9C5}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50548910-CA7D-477B-8E09-470F15FC9BFD}|WebAPI\\WebAPI.csproj|c:\\users\\alrvfgdra\\source\\repos\\tryingagainadagain\\webapi\\webapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{50548910-CA7D-477B-8E09-470F15FC9BFD}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\webapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50548910-CA7D-477B-8E09-470F15FC9BFD}|WebAPI\\WebAPI.csproj|c:\\users\\alrvfgdra\\source\\repos\\tryingagainadagain\\webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{50548910-CA7D-477B-8E09-470F15FC9BFD}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\alrvfgdra\\source\\repos\\Tryingagainadagain\\DataAccessLayer\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\alrvfgdra\\source\\repos\\Tryingagainadagain\\DataAccessLayer\\Models\\Product.cs",
+              "RelativeToolTip": "DataAccessLayer\\Models\\Product.cs",
+              "ViewState": "AQIAAAYAAAAAm5mZmZkOwA8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T10:21:03.455Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShoppingCartController.cs",
+              "DocumentMoniker": "C:\\Users\\alrvfgdra\\source\\repos\\Tryingagainadagain\\WebAPI\\Controllers\\ShoppingCartController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\ShoppingCartController.cs",
+              "ToolTip": "C:\\Users\\alrvfgdra\\source\\repos\\Tryingagainadagain\\WebAPI\\Controllers\\ShoppingCartController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\ShoppingCartController.cs",
+              "ViewState": "AQIAAAsAAADgzMzMzGwzwBgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T22:34:15.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\alrvfgdra\\source\\repos\\Tryingagainadagain\\BusinessLayer\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Services\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\alrvfgdra\\source\\repos\\Tryingagainadagain\\BusinessLayer\\Services\\CustomerService.cs",
+              "RelativeToolTip": "BusinessLayer\\Services\\CustomerService.cs",
+              "ViewState": "AQIAAAwAAADgmpmZmZkuwBcAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T22:35:35.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\alrvfgdra\\source\\repos\\Tryingagainadagain\\WebAPI\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\alrvfgdra\\source\\repos\\Tryingagainadagain\\WebAPI\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAMAAAAAlZmZmVkqwA0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T22:21:37.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\alrvfgdra\\source\\repos\\Tryingagainadagain\\WebAPI\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\alrvfgdra\\source\\repos\\Tryingagainadagain\\WebAPI\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T22:09:42.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\alrvfgdra\\source\\repos\\Tryingagainadagain\\WebAPI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\alrvfgdra\\source\\repos\\Tryingagainadagain\\WebAPI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAwAAAAAaWZmZmYcwBsAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T21:57:38.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IOrderItemService.cs",
+              "DocumentMoniker": "C:\\Users\\alrvfgdra\\source\\repos\\Tryingagainadagain\\BusinessLayer\\Contracts\\IOrderItemService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Contracts\\IOrderItemService.cs",
+              "ToolTip": "C:\\Users\\alrvfgdra\\source\\repos\\Tryingagainadagain\\BusinessLayer\\Contracts\\IOrderItemService.cs",
+              "RelativeToolTip": "BusinessLayer\\Contracts\\IOrderItemService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T20:46:21.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\alrvfgdra\\source\\repos\\Tryingagainadagain\\BusinessLayer\\Contracts\\IOrderService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Contracts\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\alrvfgdra\\source\\repos\\Tryingagainadagain\\BusinessLayer\\Contracts\\IOrderService.cs",
+              "RelativeToolTip": "BusinessLayer\\Contracts\\IOrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T22:35:07.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IShoppingCartService.cs",
+              "DocumentMoniker": "C:\\Users\\alrvfgdra\\source\\repos\\Tryingagainadagain\\BusinessLayer\\Contracts\\IShoppingCartService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Contracts\\IShoppingCartService.cs",
+              "ToolTip": "C:\\Users\\alrvfgdra\\source\\repos\\Tryingagainadagain\\BusinessLayer\\Contracts\\IShoppingCartService.cs",
+              "RelativeToolTip": "BusinessLayer\\Contracts\\IShoppingCartService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T22:35:09.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\alrvfgdra\\source\\repos\\Tryingagainadagain\\BusinessLayer\\Contracts\\IProductService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Contracts\\IProductService.cs",
+              "ToolTip": "C:\\Users\\alrvfgdra\\source\\repos\\Tryingagainadagain\\BusinessLayer\\Contracts\\IProductService.cs",
+              "RelativeToolTip": "BusinessLayer\\Contracts\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T21:58:21.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\alrvfgdra\\source\\repos\\Tryingagainadagain\\BusinessLayer\\Contracts\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Contracts\\ICustomerService.cs",
+              "ToolTip": "C:\\Users\\alrvfgdra\\source\\repos\\Tryingagainadagain\\BusinessLayer\\Contracts\\ICustomerService.cs",
+              "RelativeToolTip": "BusinessLayer\\Contracts\\ICustomerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T22:35:06.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\alrvfgdra\\source\\repos\\Tryingagainadagain\\BusinessLayer\\Contracts\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Contracts\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\alrvfgdra\\source\\repos\\Tryingagainadagain\\BusinessLayer\\Contracts\\ICategoryService.cs",
+              "RelativeToolTip": "BusinessLayer\\Contracts\\ICategoryService.cs",
+              "ViewState": "AQIAAAIAAACAmZmZmRkWwA8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T22:35:06.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddedItemsDto.cs",
+              "DocumentMoniker": "C:\\Users\\alrvfgdra\\source\\repos\\Tryingagainadagain\\BusinessLayer\\Dto\\AddedItemsDto.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Dto\\AddedItemsDto.cs",
+              "ToolTip": "C:\\Users\\alrvfgdra\\source\\repos\\Tryingagainadagain\\BusinessLayer\\Dto\\AddedItemsDto.cs",
+              "RelativeToolTip": "BusinessLayer\\Dto\\AddedItemsDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T22:35:12.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\alrvfgdra\\source\\repos\\Tryingagainadagain\\DataAccessLayer\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\alrvfgdra\\source\\repos\\Tryingagainadagain\\DataAccessLayer\\Models\\OrderItem.cs",
+              "RelativeToolTip": "DataAccessLayer\\Models\\OrderItem.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T21:10:20.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\alrvfgdra\\source\\repos\\Tryingagainadagain\\BusinessLayer\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\alrvfgdra\\source\\repos\\Tryingagainadagain\\BusinessLayer\\Services\\ProductService.cs",
+              "RelativeToolTip": "BusinessLayer\\Services\\ProductService.cs",
+              "ViewState": "AQIAADIAAAAA3P/////3vxYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T20:47:06.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\alrvfgdra\\source\\repos\\Tryingagainadagain\\BusinessLayer\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\alrvfgdra\\source\\repos\\Tryingagainadagain\\BusinessLayer\\Services\\OrderService.cs",
+              "RelativeToolTip": "BusinessLayer\\Services\\OrderService.cs",
+              "ViewState": "AQIAAAIAAABMAAAAAEAlwAwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T22:35:51.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ShoppingCartService.cs",
+              "DocumentMoniker": "C:\\Users\\alrvfgdra\\source\\repos\\Tryingagainadagain\\BusinessLayer\\Services\\ShoppingCartService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Services\\ShoppingCartService.cs",
+              "ToolTip": "C:\\Users\\alrvfgdra\\source\\repos\\Tryingagainadagain\\BusinessLayer\\Services\\ShoppingCartService.cs",
+              "RelativeToolTip": "BusinessLayer\\Services\\ShoppingCartService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAG4AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T20:49:48.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\Users\\alrvfgdra\\source\\repos\\Tryingagainadagain\\BusinessLayer\\Services\\DesignPatterns\\Logger.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Services\\DesignPatterns\\Logger.cs",
+              "ToolTip": "C:\\Users\\alrvfgdra\\source\\repos\\Tryingagainadagain\\BusinessLayer\\Services\\DesignPatterns\\Logger.cs",
+              "RelativeToolTip": "BusinessLayer\\Services\\DesignPatterns\\Logger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T22:01:41.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OrderItemService.cs",
+              "DocumentMoniker": "C:\\Users\\alrvfgdra\\source\\repos\\Tryingagainadagain\\BusinessLayer\\Services\\OrderItemService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Services\\OrderItemService.cs",
+              "ToolTip": "C:\\Users\\alrvfgdra\\source\\repos\\Tryingagainadagain\\BusinessLayer\\Services\\OrderItemService.cs",
+              "RelativeToolTip": "BusinessLayer\\Services\\OrderItemService.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T22:35:44.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\alrvfgdra\\source\\repos\\Tryingagainadagain\\BusinessLayer\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\alrvfgdra\\source\\repos\\Tryingagainadagain\\BusinessLayer\\Services\\CategoryService.cs",
+              "RelativeToolTip": "BusinessLayer\\Services\\CategoryService.cs",
+              "ViewState": "AQIAAEwAAAAAMzMzM3MpwB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T21:56:07.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ServiceFactory.cs",
+              "DocumentMoniker": "C:\\Users\\alrvfgdra\\source\\repos\\Tryingagainadagain\\BusinessLayer\\Services\\DesignPatterns\\ServiceFactory.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Services\\DesignPatterns\\ServiceFactory.cs",
+              "ToolTip": "C:\\Users\\alrvfgdra\\source\\repos\\Tryingagainadagain\\BusinessLayer\\Services\\DesignPatterns\\ServiceFactory.cs",
+              "RelativeToolTip": "BusinessLayer\\Services\\DesignPatterns\\ServiceFactory.cs",
+              "ViewState": "AQIAAAMAAAAAmJmZmZkPwA0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T22:01:08.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CustomerDto.cs",
+              "DocumentMoniker": "C:\\Users\\alrvfgdra\\source\\repos\\Tryingagainadagain\\BusinessLayer\\Dto\\CustomerDto.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Dto\\CustomerDto.cs",
+              "ToolTip": "C:\\Users\\alrvfgdra\\source\\repos\\Tryingagainadagain\\BusinessLayer\\Dto\\CustomerDto.cs",
+              "RelativeToolTip": "BusinessLayer\\Dto\\CustomerDto.cs",
+              "ViewState": "AQIAAAQAAAAAzszMzMwHwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T22:35:13.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\alrvfgdra\\source\\repos\\Tryingagainadagain\\BusinessLayer\\Dto\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Dto\\CategoryDto.cs",
+              "ToolTip": "C:\\Users\\alrvfgdra\\source\\repos\\Tryingagainadagain\\BusinessLayer\\Dto\\CategoryDto.cs",
+              "RelativeToolTip": "BusinessLayer\\Dto\\CategoryDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T22:27:06.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alrvfgdra\\source\\repos\\Tryingagainadagain\\WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\alrvfgdra\\source\\repos\\Tryingagainadagain\\WebAPI\\Program.cs",
+              "RelativeToolTip": "WebAPI\\Program.cs",
+              "ViewState": "AQIAABEAAADA/v///78iwCcAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T22:02:07.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "WebAPI.http",
+              "DocumentMoniker": "C:\\Users\\alrvfgdra\\source\\repos\\Tryingagainadagain\\WebAPI\\WebAPI.http",
+              "RelativeDocumentMoniker": "WebAPI\\WebAPI.http",
+              "ToolTip": "C:\\Users\\alrvfgdra\\source\\repos\\Tryingagainadagain\\WebAPI\\WebAPI.http",
+              "RelativeToolTip": "WebAPI\\WebAPI.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-06-05T12:49:33.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IServiceFactory.cs",
+              "DocumentMoniker": "C:\\Users\\alrvfgdra\\source\\repos\\Tryingagainadagain\\BusinessLayer\\Contracts\\DesignPatternsInterface\\IServiceFactory.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Contracts\\DesignPatternsInterface\\IServiceFactory.cs",
+              "ToolTip": "C:\\Users\\alrvfgdra\\source\\repos\\Tryingagainadagain\\BusinessLayer\\Contracts\\DesignPatternsInterface\\IServiceFactory.cs",
+              "RelativeToolTip": "BusinessLayer\\Contracts\\DesignPatternsInterface\\IServiceFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T22:35:02.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ICustomLogger.cs",
+              "DocumentMoniker": "C:\\Users\\alrvfgdra\\source\\repos\\Tryingagainadagain\\BusinessLayer\\Contracts\\DesignPatternsInterface\\ICustomLogger.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Contracts\\DesignPatternsInterface\\ICustomLogger.cs",
+              "ToolTip": "C:\\Users\\alrvfgdra\\source\\repos\\Tryingagainadagain\\BusinessLayer\\Contracts\\DesignPatternsInterface\\ICustomLogger.cs",
+              "RelativeToolTip": "BusinessLayer\\Contracts\\DesignPatternsInterface\\ICustomLogger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T22:01:25.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "LoggerAdapter.cs",
+              "DocumentMoniker": "C:\\Users\\alrvfgdra\\source\\repos\\Tryingagainadagain\\BusinessLayer\\Services\\DesignPatterns\\LoggerAdapter.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Services\\DesignPatterns\\LoggerAdapter.cs",
+              "ToolTip": "C:\\Users\\alrvfgdra\\source\\repos\\Tryingagainadagain\\BusinessLayer\\Services\\DesignPatterns\\LoggerAdapter.cs",
+              "RelativeToolTip": "BusinessLayer\\Services\\DesignPatterns\\LoggerAdapter.cs",
+              "ViewState": "AQIAAAgAAACAmZmZmRkWwBMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T22:01:10.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ShoppingCartItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\alrvfgdra\\source\\repos\\Tryingagainadagain\\BusinessLayer\\Dto\\ShoppingCartItemDto.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Dto\\ShoppingCartItemDto.cs",
+              "ToolTip": "C:\\Users\\alrvfgdra\\source\\repos\\Tryingagainadagain\\BusinessLayer\\Dto\\ShoppingCartItemDto.cs",
+              "RelativeToolTip": "BusinessLayer\\Dto\\ShoppingCartItemDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T22:35:21.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ShoppingCartDto.cs",
+              "DocumentMoniker": "C:\\Users\\alrvfgdra\\source\\repos\\Tryingagainadagain\\BusinessLayer\\Dto\\ShoppingCartDto.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Dto\\ShoppingCartDto.cs",
+              "ToolTip": "C:\\Users\\alrvfgdra\\source\\repos\\Tryingagainadagain\\BusinessLayer\\Dto\\ShoppingCartDto.cs",
+              "RelativeToolTip": "BusinessLayer\\Dto\\ShoppingCartDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T22:35:20.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\alrvfgdra\\source\\repos\\Tryingagainadagain\\BusinessLayer\\Dto\\ProductDto.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Dto\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\alrvfgdra\\source\\repos\\Tryingagainadagain\\BusinessLayer\\Dto\\ProductDto.cs",
+              "RelativeToolTip": "BusinessLayer\\Dto\\ProductDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T22:35:20.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "OrderItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\alrvfgdra\\source\\repos\\Tryingagainadagain\\BusinessLayer\\Dto\\OrderItemDto.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Dto\\OrderItemDto.cs",
+              "ToolTip": "C:\\Users\\alrvfgdra\\source\\repos\\Tryingagainadagain\\BusinessLayer\\Dto\\OrderItemDto.cs",
+              "RelativeToolTip": "BusinessLayer\\Dto\\OrderItemDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T22:35:18.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ITestService.cs",
+              "DocumentMoniker": "C:\\Users\\alrvfgdra\\source\\repos\\Tryingagainadagain\\BusinessLayer\\Contracts\\ITestService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Contracts\\ITestService.cs",
+              "ToolTip": "C:\\Users\\alrvfgdra\\source\\repos\\Tryingagainadagain\\BusinessLayer\\Contracts\\ITestService.cs",
+              "RelativeToolTip": "BusinessLayer\\Contracts\\ITestService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T22:35:09.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\alrvfgdra\\source\\repos\\Tryingagainadagain\\DataAccessLayer\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\alrvfgdra\\source\\repos\\Tryingagainadagain\\DataAccessLayer\\Models\\Customer.cs",
+              "RelativeToolTip": "DataAccessLayer\\Models\\Customer.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAApwAwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T22:02:45.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "WebAPI",
+              "DocumentMoniker": "C:\\Users\\alrvfgdra\\source\\repos\\Tryingagainadagain\\WebAPI\\WebAPI.csproj",
+              "RelativeDocumentMoniker": "WebAPI\\WebAPI.csproj",
+              "ToolTip": "C:\\Users\\alrvfgdra\\source\\repos\\Tryingagainadagain\\WebAPI\\WebAPI.csproj",
+              "RelativeToolTip": "WebAPI\\WebAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-26T22:00:59.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "WebAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\alrvfgdra\\source\\repos\\Tryingagainadagain\\WebAPI\\WebAPI.csproj",
+              "RelativeDocumentMoniker": "WebAPI\\WebAPI.csproj",
+              "ToolTip": "C:\\Users\\alrvfgdra\\source\\repos\\Tryingagainadagain\\WebAPI\\WebAPI.csproj",
+              "RelativeToolTip": "WebAPI\\WebAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-26T21:01:19.056Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
